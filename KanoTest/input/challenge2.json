@@ -1,0 +1,17 @@
+{
+	"title":"Joke",
+	"steps":[
+		{
+		"instruction": "Knock knock. Type \"who's there\"",
+		"validate": "who\\'?s there\\??"
+		},
+		{
+		"instruction": "Art. Type \"Art who\"",
+		"validate": "[Aa]rt who\\??"
+		},
+		{
+		"instruction": "R2-D2. Did you like my joke?",
+		"validate": "([Yy]es|[Nn]o)"
+		}
+	]
+}

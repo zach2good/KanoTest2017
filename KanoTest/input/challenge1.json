@@ -1,0 +1,13 @@
+{
+	"title":"Welcome",
+	"steps":[
+		{
+		"instruction":"type \"say hello\"",
+		"validate":"say hello"
+		},
+		{
+		"instruction":"What is your name?",
+		"validate":"[a-zA-Z]+"
+		}
+	]
+}
